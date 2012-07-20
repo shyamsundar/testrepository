@@ -1,3 +1,3 @@
 <?php
-    phpinfo();
+  //comment in third file
 ?>
